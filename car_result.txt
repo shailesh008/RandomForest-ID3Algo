@@ -1,0 +1,138 @@
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.8771
+RandomForest Accuracy of test set is: 60.6936
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 88.8648
+RandomForest Accuracy of test set is: 60.1156
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 87.2740
+RandomForest Accuracy of test set is: 59.5376
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 91.0340
+RandomForest Accuracy of test set is: 59.8266
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.0817
+RandomForest Accuracy of test set is: 58.3815
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.5155
+RandomForest Accuracy of test set is: 59.2486
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.3709
+RandomForest Accuracy of test set is: 61.5607
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.3709
+RandomForest Accuracy of test set is: 59.5376
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.0094
+RandomForest Accuracy of test set is: 59.5376
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.0817
+RandomForest Accuracy of test set is: 60.1156
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 85.2495
+RandomForest Accuracy of test set is: 60.6936
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 85.0325
+RandomForest Accuracy of test set is: 61.2717
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 84.5987
+RandomForest Accuracy of test set is: 61.5607
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 85.3941
+RandomForest Accuracy of test set is: 63.5838
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 84.8156
+RandomForest Accuracy of test set is: 62.4277
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 83.8756
+RandomForest Accuracy of test set is: 63.5838
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 90.1663
+RandomForest Accuracy of test set is: 58.6705
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 90.6725
+RandomForest Accuracy of test set is: 59.5376
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 88.6479
+RandomForest Accuracy of test set is: 59.2486
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 89.2263
+RandomForest Accuracy of test set is: 59.2486
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 88.2863
+RandomForest Accuracy of test set is: 59.8266
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 87.3463
+RandomForest Accuracy of test set is: 60.4046
+Training-set data length 1383:
+Test-set data length 346:
+Accuracy of test set is: 57.2254
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 87.4187
+RandomForest Accuracy of test set is: 59.2486

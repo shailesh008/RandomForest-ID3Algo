@@ -1,0 +1,228 @@
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.6098
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.9350
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.2602
+RandomForest Accuracy of test set is: 88.4058
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 89.8551
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 97.5610
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.9350
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.0976
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 97.0732
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.7724
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 97.0732
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.9350
+RandomForest Accuracy of test set is: 94.2029
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.9106
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 4538.4615
+RandomForest Accuracy of test set is: 507.6923
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.9350
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.2602
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.7724
+RandomForest Accuracy of test set is: 89.8551
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.7480
+RandomForest Accuracy of test set is: 89.8551
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.2602
+RandomForest Accuracy of test set is: 94.2029
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.2602
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 97.2358
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 97.0732
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.2846
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.4472
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.9106
+RandomForest Accuracy of test set is: 94.2029
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.2602
+RandomForest Accuracy of test set is: 89.8551
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.4228
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.4472
+RandomForest Accuracy of test set is: 92.7536
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 96.2602
+RandomForest Accuracy of test set is: 88.4058
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.6098
+RandomForest Accuracy of test set is: 94.2029
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.9350
+RandomForest Accuracy of test set is: 91.3043
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.1220
+RandomForest Accuracy of test set is: 94.2029
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 94.9593
+RandomForest Accuracy of test set is: 88.4058
+Training-set data length 615:
+Test-set data length 69:
+Accuracy of test set is: 92.7536
+Accuracy of training set is: 100.0000
+RandomForest Accuracy of training set is: 95.2846
+RandomForest Accuracy of test set is: 92.7536
